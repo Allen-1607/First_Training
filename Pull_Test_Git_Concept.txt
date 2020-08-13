@@ -1,0 +1,1 @@
+Pull is a git concept and pull request is a git hub concept !!
